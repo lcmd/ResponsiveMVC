@@ -1,0 +1,149 @@
+﻿header, footer, nav{display:block;}
+
+header div{height:150px;
+           background-color:gray;         
+           text-align:center;
+}
+
+.head{
+    color:black;
+   font-family:'Montserrat';
+   font-size:40px;
+
+}
+.lowerHead{
+    color:black;
+   font-size:60px;
+   font-family:'Arizonia', cursive;
+
+}
+footer{
+    height:45px;
+    font-size:25px;
+    background-color:gray;
+    text-align:center;
+    font-family:'Arizonia', cursive;
+}
+.columbusSky {
+    background: url('../images/Columbus-OH-Skyline.jpg') center no-repeat;
+    background-size:cover;
+    padding:0;
+}
+div.container{padding-left:0; padding-right:0;}
+div h1{font-size:24px;}
+div h2{font-size:20px;}
+.img-responsive{
+    background-size:100% auto
+       
+}
+.offer {
+    font-family: 'Arizonia', cursive;
+    font-size: 25px;
+    color: white;
+    background-size: cover;
+    text-align: left;
+   
+    background: url('../images/background.jpg') center;
+}
+div.loft {
+    background: url('../images/Capitol-Hill-Loft-03-850x566.jpg') center no-repeat;
+    background-size:cover;
+     padding:0;
+}
+div.comftyLoft {
+    background: url('../images/comfty loft.jpg');
+    background-size:cover;
+     padding:0;
+}
+div.sleekLoft {
+    background: url('../images/sleek loft.jpg');
+    background-size:cover;
+     padding:0;
+}
+div.phillyLoft {
+    background: url('../images/philly loft.jpg');
+    background-size:cover;
+     padding:0;
+}
+div.windowLoft {
+    background: url('../images/window loft.jpg');
+    background-size: cover;
+     padding:0;
+}
+div.luxuryLoft {
+    background: url('../images/luxury-loft.jpg') center;
+    background-size:cover;
+    padding:0;
+}
+div.wonderLoft {
+    background: url('../images/wonder loft.JPG') center;
+    background-size:cover;
+     padding:0;
+}
+div.hgtvLogo {
+    background: url('../images/HGTV_logo.jpg') center;
+    background-size: cover;
+     padding:0;
+}
+div.barcelonaLoft {
+    background: url('../images/Loft-Barcelona-warehouse-conversion.jpg') center;
+    background-size:cover;
+     padding:0;
+}
+div.experts {
+    background: url('../images/professionals.jpg') center;
+    background-size: cover;
+    padding:0;
+}
+div.promoArea{
+    min-height:350px;
+
+}
+nav, footer{
+    clear:both;
+    height:30px;
+}
+
+.columbus-history{
+    text-align:left;
+    font-family:'Arizonia', cursive;
+    font-size:24px;
+    background-color:dimgray;
+    background-size:cover;
+   color:white;
+   
+   
+}
+.why {
+    font-family: 'Arizonia', cursive;
+    font-size: 24px;
+    color: #4fb1a2;
+    background-size: cover;
+    text-align: left;
+    background: url('../images/background.jpg') center;
+    
+    /*background-color:#4fb1a2;*/
+}
+nav ul{
+    margin:1px;
+    text-align:center;
+}
+nav li{display:inline;
+           margin-right:45px;           
+}
+
+.vertical-center{
+    min-height:350px;
+    display:flex;
+    align-items:center;
+    
+}
+.overlay{
+    margin:0 auto;
+    padding: 0;
+    background: #4fb1a2;
+    color: #fff;
+    opacity:.8;
+    text-align:center;
+}
+.square{min-height:350px;}
